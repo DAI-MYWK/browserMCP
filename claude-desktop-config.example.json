@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "browser-mcp": {
+      "command": "node",
+      "args": ["/Users/miyawakidai/dev/Product/browserMCP/dist/index.js"],
+      "env": {}
+    }
+  }
+}

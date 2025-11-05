@@ -1,4 +1,4 @@
-# Browser MCP Server
+# Browser MCP Server.
 
 Playwright を使用したブラウザ自動化のための MCP（Model Context Protocol）サーバーです。Google フォームの構築や kintone の画面操作、システムのオンボーディング自動化などに使用できます。
 
